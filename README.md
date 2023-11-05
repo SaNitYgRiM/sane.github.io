@@ -1,3 +1,3 @@
 # sane.github.io
 hi
-testing out github poges deployment!
+testing out github pages deployment!
